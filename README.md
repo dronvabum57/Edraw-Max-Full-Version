@@ -257,4 +257,4 @@ This repository serves as the official landing page for EdrawMax. The software i
 **Get the most recent version of EdrawMax today!**
 
 ---
-**Last updated:** 2026-09-14 08:12:13 UTC
+**Last updated:** 2026-09-14 15:20:48 UTC
